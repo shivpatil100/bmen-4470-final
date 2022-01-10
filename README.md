@@ -1,3 +1,5 @@
 # BMEN E4470 Final Project
 
-Deep Learning for Biomedical Signal Processing
+Deep Learning for EEG Motor Imagery Classification
+
+
