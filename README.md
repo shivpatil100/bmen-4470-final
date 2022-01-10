@@ -8,4 +8,5 @@ Training and evaluation of both models showed that the EEG-TCNet outperformed th
 
 Sources:
 [1] S. U. Amin, M. Alsulaiman, G. Muhammad, M. A. Mekhtiche, and M. Shamim Hossain, “Deep learning for EEG motor imagery classification based on multi-layer cnns feature fusion,” Future Generation Computer Systems, vol. 101, pp. 542–554, 2019.
+
 [2] T. M. Ingolfsson, M. Hersche, X. Wang, N. Kobayashi, L. Cavigelli, and L. Benini, “EEG-TCNet: An accurate temporal convolutional network for embedded motor-imagery brain–machine interfaces,” 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020.
